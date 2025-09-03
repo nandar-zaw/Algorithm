@@ -1,4 +1,4 @@
-package cs425;
+package cs425.sept_01;
 
 public class Exercise1 {
     private int is123Array(int[] arr) {
