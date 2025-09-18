@@ -129,6 +129,6 @@ public class Exercise4 {
         System.out.println("Does One subset : " + subsetSumExists(new int[]{3, 4, 7, 8}, 15));
         findOneSubsetSum(new int[]{3, 4, 7, 8}, 15);
         System.out.println("All subsets : ");
-        findAllSubSets(new int[]{3, 4, 7, 8}, 15);
+        findAllSubSets(new int[]{5, 2, 1, 4}, 5);
     }
 }
